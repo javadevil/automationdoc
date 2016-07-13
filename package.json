@@ -1,0 +1,32 @@
+{
+  "name": "automationdoc",
+  "version": "1.0.0",
+  "description": "Make a work simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javadevil/automationdoc.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "BI",
+    "Mongodb",
+    "React"
+  ],
+  "author": "Wacharabuhm Tungketmukda",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/javadevil/automationdoc/issues"
+  },
+  "homepage": "https://github.com/javadevil/automationdoc#readme",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "connect-mongodb-session": "^1.1.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "mongoose": "^4.5.3"
+  }
+}

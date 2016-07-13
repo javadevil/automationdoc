@@ -1,0 +1,12 @@
+{
+	"mongodb" : {
+		"uri" : "mongodb://192.168.99.100:27017/automationdoc"
+	},
+	"session" : {
+		"secret" : "87F1GyISlPH73w3xaNjSTCf254763XR6",
+		"cookie" : {
+			"maxAge" : 84000000 ,
+			"secure" : true
+		}
+	}
+}
