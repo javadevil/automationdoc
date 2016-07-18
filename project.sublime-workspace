@@ -1,0 +1,467 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"compression"
+			],
+			[
+				"co",
+				"cookie"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"m",
+				"method"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"ses",
+				"session"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"p",
+				"port"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"find",
+				"findKimmy"
+			],
+			[
+				"inser",
+				"insertData"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"db",
+				"dbCallback"
+			],
+			[
+				"get",
+				"getUsername"
+			],
+			[
+				"s",
+				"setupProcess"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"cor",
+				"color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"S",
+				"settings"
+			],
+			[
+				"init",
+				"initDatabase"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process.json",
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "s java",
+		"selected_items":
+		[
+			[
+				"s java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"s babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Wacharabuhm/Documents/automationdoc",
+		"/C/Users/Wacharabuhm/Documents/automationdoc/config"
+	],
+	"file_history":
+	[
+		"/C/Users/Wacharabuhm/Documents/automationdoc/modules/test.js",
+		"/C/Users/Wacharabuhm/Documents/automationdoc/process.json",
+		"/C/Users/Wacharabuhm/Documents/automationdoc/config/settings.json",
+		"/C/Users/Wacharabuhm/Documents/automationdoc/package.json",
+		"/C/Users/Wacharabuhm/Documents/automationdoc/LICENSE",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/settings.json",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/process.json",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/config/production.json",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/config/develop.json",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/package.json",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/core/model.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/.gitignore",
+		"/C/Users/Wacharabuhm/Documents/test_node/mongotest.js",
+		"/C/Users/Wacharabuhm/Documents/test_node/index.js",
+		"/C/Users/Wacharabuhm/Documents/test_node/a.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/setup.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/src/app/Main.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/index.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/package.json",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/README.md",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/application.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/index.html",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/app/app.component.ts",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/styles.css",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/systemjs.config.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/app/main.ts",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/commons/index.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/typings.json",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/commons/views/index.html",
+		"/C/Users/Wacharabuhm/Documents/GitHub/ezmak/webapplication/tsconfig.json",
+		"/C/Users/Wacharabuhm/Documents/ts/main.ts",
+		"/C/Users/Wacharabuhm/Documents/GitHub/wt-abacus/settings.json",
+		"/C/Users/Wacharabuhm/Desktop/test.js",
+		"/C/Users/Wacharabuhm/Documents/GitHub/wt-abacus/process.json",
+		"/C/Users/Wacharabuhm/Documents/GitHub/wt-abacus/app.sjs",
+		"/C/Users/Wacharabuhm/Documents/GitHub/wt-abacus/README"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"application"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								457,
+								457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "process.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "project.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

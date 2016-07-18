@@ -1,0 +1,20 @@
+{
+	"MONGODB" 	: {
+		"URI" 	: "mongodb://192.168.99.100:27017/automationdoc"
+	},
+	"SESSION" 	: {
+		"COLLECTION": "session",
+		"SECRET"	: "thisissecret",
+		"MAXAGE"	: 86400000
+	},
+	"HTTP"		: {
+		"PORT"	: 3001
+	},
+	"HTTPS"		: {
+		"PORT"		: 3002,
+		"OPTIONS"	: {
+			"KEY"	: "./secure/key.pem",
+			"CERT"	: "./secure/crt.pem"
+		}
+	}
+}
