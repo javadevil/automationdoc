@@ -1,0 +1,28 @@
+{
+  "name": "automationdoc",
+  "version": "1.0.0",
+  "description": "Take away hardwork",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javadevil/automationdoc.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Wacharabuhm Tungketmukda",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/javadevil/automationdoc/issues"
+  },
+  "homepage": "https://github.com/javadevil/automationdoc#readme"
+}
