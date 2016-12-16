@@ -4,18 +4,13 @@
    * http://pm2.keymetrics.io/docs/usage/application-declaration/
    */
   "apps" : [
-
-    // First application
     {
       "name"      : "API",
       "script"    : "app.js",
-      "env": {
-        "COMMON_VARIABLE": "true",
-        "PATH" : "./settings"
-      },
-      "env_production" : {
-        "NODE_ENV": "production"
-      }
+      "watch"     : ["modules","app.js"],
+      "env"       : {
+        "NODE_ENV": "developement"
+        }
     }
   ],
 
