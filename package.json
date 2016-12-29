@@ -1,0 +1,29 @@
+{
+  "name": "automationdoc",
+  "version": "1.0.0",
+  "description": "An automation software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javadevil/automationdoc.git"
+  },
+  "keywords": [
+    "Typescript",
+    "opensource",
+    "ERP",
+    "NodeJS",
+    "Mongodb"
+  ],
+  "author": "Wacharabuhm Tungketmukda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javadevil/automationdoc/issues"
+  },
+  "homepage": "https://github.com/javadevil/automationdoc#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
