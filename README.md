@@ -1,2 +1,0 @@
-# automationdoc
-The Automation Document

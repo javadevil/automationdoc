@@ -1,8 +1,0 @@
-{
-    "APPS" : [
-        {"PATH":"/auth","MODULE":"automationdoc-auth"}
-    ],
-    "DB" : {
-        "URL" : "MONGODB://192.168.99.100:32770/automationdoc"
-    }
-}
